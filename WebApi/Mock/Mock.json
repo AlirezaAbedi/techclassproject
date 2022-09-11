@@ -1,0 +1,63 @@
+{
+  "User/RegisterUser": [
+    {
+      "Id": 1,
+      "Firstname": "Alireza",
+      "Lastname": "Abedi",
+      "IsApproved": true,
+      "DomainId": 1,
+      "UserId": 2,
+      "DomainTitle": "google.com"
+    },
+    {
+      "firstname": "string",
+      "lastname": "string",
+      "email": "aabedi79@gmail.com",
+      "isApproved": 0,
+      "domainId": 0,
+      "userId": 0,
+      "domainTitle": "string",
+      "Id": 2
+    },
+    {
+      "firstname": "string",
+      "lastname": "string",
+      "email": "aabedi79@gmail.com",
+      "isApproved": 0,
+      "domainId": 0,
+      "userId": 0,
+      "domainTitle": "string",
+      "Id": 3
+    },
+    {
+      "firstname": "string",
+      "lastname": "string",
+      "email": "aabedi79@gmail.com",
+      "isApproved": 0,
+      "domainId": 0,
+      "userId": 0,
+      "domainTitle": "string",
+      "Id": 4
+    },
+    {
+      "firstname": "string",
+      "lastname": "string",
+      "email": "aabedi79@gmail.com",
+      "isApproved": 0,
+      "domainId": 0,
+      "userId": 0,
+      "domainTitle": "string",
+      "Id": 5
+    },
+    {
+      "firstname": "string",
+      "lastname": "string",
+      "email": "abedi@m.com",
+      "isApproved": 0,
+      "domainId": 0,
+      "userId": 0,
+      "domainTitle": "string",
+      "Id": 6
+    }
+  ]
+}

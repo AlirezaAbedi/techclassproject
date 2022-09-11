@@ -89,8 +89,8 @@ builder.Services.AddAuthentication(options =>
 AddCookie()
 .AddGoogleOpenIdConnect(options =>
 {
-    options.ClientId = "897095587174-rgveh4qsn4rr7mkiccq4ago41k2tv1dn.apps.googleusercontent.com";
-    options.ClientSecret = "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";
+    options.ClientId = "********************";
+    options.ClientSecret = "**********************";
 
 });
 
